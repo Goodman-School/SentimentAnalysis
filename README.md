@@ -17,7 +17,7 @@ refer https://www.educative.io/answers/how-to-get-an-access-token-for-hugging-fa
 create a google sheet (with a google account of course)
 
 Open appscript editor
-<img width="773" alt="image" src="https://github.com/Goodman-School/SentimentAnalysis/assets/45176371/39d71240-e414-4526-8715-e6575fb90a84">
+<img width="1194" alt="image" src="https://github.com/Goodman-School/SentimentAnalysis/assets/45176371/d888635e-abeb-484d-944a-c29db42c04f7">
 
 Name the script, paste code, replace the apiKey to your HF key
 <img width="1234" alt="image" src="https://github.com/Goodman-School/SentimentAnalysis/assets/45176371/edba3c6a-5867-4559-8f71-35c7ce9e3441">
